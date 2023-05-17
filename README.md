@@ -1,4 +1,4 @@
-# Learning
+# Learning-git
 
 
-ca fontionne 
+ca fonctionne et ca re-fonctionne
